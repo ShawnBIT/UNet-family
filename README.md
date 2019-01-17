@@ -10,5 +10,6 @@
   * [SUNet: a deep learning architecture for acute stroke lesion segmentation and
 outcome prediction in multimodal MRI](https://arxiv.org/pdf/1810.13304.pdf)
   * [IVD-Net: Intervertebral disc localization and segmentation in MRI with a multi-modal UNet](https://arxiv.org/pdf/1811.08305.pdf)
-  * [LADDERNET: MULTI-PATH NETWORKS BASED ON U-NET FOR MEDICAL IMAGE SEGMENTATION](https://arxiv.org/pdf/1810.07810.pdf)
+  * [LADDERNET: Multi-Path Networks Based on U-Net for Medical Image Segmentation](https://arxiv.org/pdf/1810.07810.pdf)
   * [Glioma Segmentation with Cascaded Unet](https://arxiv.org/pdf/1810.04008.pdf)
+  * [H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes](https://arxiv.org/pdf/1709.07330.pdf)
