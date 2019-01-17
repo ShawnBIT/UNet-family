@@ -7,3 +7,5 @@
   * [Stacked Dense U-Nets with Dual Transformers for Robust Face Alignment](https://arxiv.org/pdf/1812.01936.pdf)
   * [Prostate Segmentation using 2D Bridged U-net](https://arxiv.org/pdf/1807.04459.pdf)
   * [nnU-Net: Self-adapting Framework for U-Net-Based Medical Image Segmentation](https://arxiv.org/pdf/1809.10486.pdf)
+  * [SUNet: a deep learning architecture for acute stroke lesion segmentation and
+outcome prediction in multimodal MRI](https://arxiv.org/pdf/1810.13304.pdf)
