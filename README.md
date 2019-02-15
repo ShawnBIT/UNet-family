@@ -1,5 +1,5 @@
 ## 2015
-  * [2015-MICCAI] U-Net: Convolutional Networks for Biomedical Image Segmentation [[paper](https://arxiv.org/pdf/1505.04597.pdf)]
+  * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1505.04597.pdf)]
 ## 2018 
   * UNet++: A Nested U-Net Architecture for Medical Image Segmentation [[paper](https://arxiv.org/pdf/1807.10165.pdf)]
   * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation [[paper](https://arxiv.org/pdf/1812.00352.pdf)]
