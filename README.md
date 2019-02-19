@@ -3,7 +3,7 @@
 ## 2015
   * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1505.04597.pdf)]  
 ## 2017 
-  * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes [[paper](https://arxiv.org/pdf/1709.07330.pdf)]
+  * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging)[[paper](https://arxiv.org/pdf/1709.07330.pdf)]
 ## 2018 
   * UNet++: A Nested U-Net Architecture for Medical Image Segmentation [[paper](https://arxiv.org/pdf/1807.10165.pdf)]
   * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation [[paper](https://arxiv.org/pdf/1812.00352.pdf)]
