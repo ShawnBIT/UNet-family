@@ -7,7 +7,7 @@ from utils import init_weights, count_param
 
 class UNet(nn.Module):
 
-    def __init__(self, in_channels=1, n_classes=2, feature_scale=2, is_deconv=True, is_batchnorm=False):
+    def __init__(self, in_channels=1, n_classes=2, feature_scale=2, is_deconv=True, is_batchnorm=True):
         super(UNet, self).__init__()
         self.is_deconv = is_deconv
         self.in_channels = in_channels
