@@ -23,3 +23,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * Concurrent Spatial and Channel ‘Squeeze & Excitation’ in Fully Convolutional Networks [[paper]](https://arxiv.org/pdf/1803.02579.pdf)
 ## 2019 
   * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [[paper]](https://arxiv.org/pdf/1902.04049v1.pdf)
+
+
+## Reference
+  * https://github.com/ozan-oktay/Attention-Gated-Networks (Our model style mianly refers to this repository.）
