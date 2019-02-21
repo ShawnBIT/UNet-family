@@ -9,10 +9,11 @@ class UNet(nn.Module):
 
     def __init__(self, in_channels=1, n_classes=2, feature_scale=2, is_deconv=True, is_batchnorm=True):
         super(UNet, self).__init__()
-        self.is_deconv = is_deconv
         self.in_channels = in_channels
-        self.is_batchnorm = is_batchnorm
         self.feature_scale = feature_scale
+        self.is_deconv = is_deconv
+        self.is_batchnorm = is_batchnorm
+        
 
         filters = [64, 128, 256, 512, 1024]
         filters = [int(x / self.feature_scale) for x in filters]
@@ -65,7 +66,7 @@ class UNet(nn.Module):
 if __name__ == '__main__':
     print('#### Test Case ###')
     from torch.autograd import Variable
-    x = Variable(torch.rand(8,1,64,64)).cuda()
+    x = Variable(torch.rand(2,1,64,64)).cuda()
     model = UNet().cuda()
     param = count_param(model)
     y = model(x)

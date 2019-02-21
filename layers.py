@@ -38,24 +38,25 @@ class unetConv2(nn.Module):
 
         return x
 
-
 class unetUp(nn.Module):
-    def __init__(self, in_size, out_size, is_deconv):
+    def __init__(self, in_size, out_size, is_deconv, n_concat=2):
         super(unetUp, self).__init__()
-        self.conv = unetConv2(in_size, out_size, False)
+        self.conv = unetConv2(in_size+(n_concat-2)*out_size, out_size, False)
         if is_deconv:
             self.up = nn.ConvTranspose2d(in_size, out_size, kernel_size=2, stride=2, padding=0)
         else:
             self.up = nn.Sequential(
-                nn.UpsamplingBilinear2d(scale_factor=2),
-                nn.Conv2d(in_size, out_size, 1))
-
+                 nn.UpsamplingBilinear2d(scale_factor=2),
+                 nn.Conv2d(in_size, out_size, 1))
+           
         # initialise the blocks
         for m in self.children():
             if m.__class__.__name__.find('unetConv2') != -1: continue
             init_weights(m, init_type='kaiming')
 
-    def forward(self, high_feature, low_feature):
+    def forward(self, high_feature, *low_feature):
         outputs0 = self.up(high_feature)
-        outputs0 = torch.cat([outputs0, low_feature], 1)
+        for feature in low_feature:
+            outputs0 = torch.cat([outputs0, feature], 1)
         return self.conv(outputs0)
+
