@@ -5,7 +5,6 @@ import torch.nn as nn
 from layers import unetConv2, unetUp
 from utils import init_weights, count_param
 
-
 class UNet(nn.Module):
 
     def __init__(self, in_channels=1, n_classes=2, feature_scale=2, is_deconv=True, is_batchnorm=False):

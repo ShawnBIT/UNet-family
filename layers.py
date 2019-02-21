@@ -55,7 +55,7 @@ class unetUp(nn.Module):
             if m.__class__.__name__.find('unetConv2') != -1: continue
             init_weights(m, init_type='kaiming')
 
-    def forward(self, inputs0, input):
-        outputs0 = self.up(inputs0)
-        outputs0 = torch.cat([outputs0,input], 1)
+    def forward(self, high_feature, low_feature):
+        outputs0 = self.up(high_feature)
+        outputs0 = torch.cat([outputs0, low_feature], 1)
         return self.conv(outputs0)
