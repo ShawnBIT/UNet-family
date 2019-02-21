@@ -1,11 +1,11 @@
 ## This project is under construction.
 
 ## 2015
-  * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1505.04597.pdf)]  [[pytorch](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet.py)]
+  * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1505.04597.pdf)]  [[torch](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet.py)]
 ## 2017 
   * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging)[[paper](https://arxiv.org/pdf/1709.07330.pdf)]
 ## 2018 
-  * UNet++: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1807.10165.pdf)][[pytorch](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet_Nested.py)]
+  * UNet++: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1807.10165.pdf)][[torch](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet_Nested.py)]
   * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation [[paper](https://arxiv.org/pdf/1812.00352.pdf)]
   * DUNet: A deformable network for retinal vessel segmentation [[paper](https://arxiv.org/pdf/1811.01206.pdf)]
   * RA-UNet: A hybrid deep attention-aware network to extract liver and tumor in CT scans [[paper](https://arxiv.org/pdf/1811.01328.pdf)]
@@ -21,7 +21,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * Attention U-Net: Learning Where to Look for the Pancreas [[paper](https://arxiv.org/pdf/1804.03999.pdf)]
   * Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation [[paper](https://arxiv.org/pdf/1802.06955.pdf)]
   * Concurrent Spatial and Channel ‘Squeeze & Excitation’ in Fully Convolutional Networks [[paper]](https://arxiv.org/pdf/1803.02579.pdf)
-  * A Probabilistic U-Net for Segmentation of Ambiguous Images [[paper](https://arxiv.org/pdf/1806.05034.pdf)] [[code](https://github.com/SimonKohl/probabilistic_unet)]
+  * A Probabilistic U-Net for Segmentation of Ambiguous Images [[paper](https://arxiv.org/pdf/1806.05034.pdf)] [[tf](https://github.com/SimonKohl/probabilistic_unet)]
 ## 2019 
   * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [[paper]](https://arxiv.org/pdf/1902.04049v1.pdf)
 
