@@ -5,7 +5,7 @@ In this project, we have compiled the semantic segmentation models related to UN
 My implement is mainly based on **pytorch**, and other implements are collected from paper author or excellent repositories.
  For the record, this project is still **under construction**. If you have any advice or question, please raise an issue or contact me from email.
  
-Furthermore, why does the Unet neural network perform well in medical image segmentation?
+Furthermore, why does the UNet neural network perform well in medical image segmentation?
 You can figure it out from [my answer](https://www.zhihu.com/question/269914775/answer/586501606) in Zhihu.
 
 # UNet-family
