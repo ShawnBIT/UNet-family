@@ -1,9 +1,9 @@
 # Introduction
-Since 2015, UNet has made major breakthroughs in the segmentation of medical image, opening the era of deep learning. Later researchers have made a lot of improvements on the basis of UNet in order to improve the performance of semantic segmentation.
+Since 2015, **UNet** has made major breakthroughs in the segmentation of medical image, opening the era of deep learning. Later researchers have made a lot of improvements on the basis of UNet in order to improve the performance of semantic segmentation.
 
-In this project, we have compiled the semantic segmentation models related to UNet(UNet family) in recent years.
-My implement is mainly based on pytorch, and other implements are collected from paper author or excellent repositories.
- For the record, this project is still under construction. If you have any advice or question, please raise an issue or contact me from email.
+In this project, we have compiled the semantic segmentation models related to UNet(**UNet family**) in recent years.
+My implement is mainly based on **pytorch**, and other implements are collected from paper author or excellent repositories.
+ For the record, this project is still **under construction**. If you have any advice or question, please raise an issue or contact me from email.
  
 
 # UNet-family
