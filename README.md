@@ -1,4 +1,4 @@
-# 1.Introduction
+# Introduction
 My implement is mainly based on pytorch, and other implements are collected from paper author or excellent repositories.
 For the record, this project is under construction.
 
