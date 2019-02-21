@@ -26,4 +26,4 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
 
 
 ## Reference
-  * https://github.com/ozan-oktay/Attention-Gated-Networks (Our model style mianly refers to this repository.）
+  * https://github.com/ozan-oktay/Attention-Gated-Networks (Our model style mainly refers to this repository.）
