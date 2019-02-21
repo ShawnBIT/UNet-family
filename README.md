@@ -1,5 +1,5 @@
 # Introduction
-In this project, we have compiled the semantic segmentation models related to UNet in recent years.
+In this project, we have compiled the semantic segmentation models related to UNet(UNet family) in recent years.
 My implement is mainly based on pytorch, and other implements are collected from paper author or excellent repositories.
 For the record, this project is still under construction.If you have any advice or questions, please raise an issue or contact me from email.
 
