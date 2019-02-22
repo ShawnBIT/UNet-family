@@ -1,5 +1,4 @@
-import sys
-sys.path.append('/home/wangshen/UNet-family')
+import _init_paths
 import torch
 import torch.nn as nn
 from layers import unetConv2, unetUp
@@ -19,14 +18,11 @@ class UNet_Nested(nn.Module):
         filters = [int(x / self.feature_scale) for x in filters]
 
         # downsampling
+        self.maxpool = nn.MaxPool2d(kernel_size=2)
         self.conv00 = unetConv2(self.in_channels, filters[0], self.is_batchnorm)
-        self.maxpool0 = nn.MaxPool2d(kernel_size=2)
         self.conv10 = unetConv2(filters[0], filters[1], self.is_batchnorm)
-        self.maxpool1 = nn.MaxPool2d(kernel_size=2)
         self.conv20 = unetConv2(filters[1], filters[2], self.is_batchnorm)
-        self.maxpool2 = nn.MaxPool2d(kernel_size=2)
         self.conv30 = unetConv2(filters[2], filters[3], self.is_batchnorm)
-        self.maxpool3 = nn.MaxPool2d(kernel_size=2)
         self.conv40 = unetConv2(filters[3], filters[4], self.is_batchnorm)
 
         # upsampling
@@ -60,14 +56,14 @@ class UNet_Nested(nn.Module):
     def forward(self, inputs):
         # column : 0
         X_00 = self.conv00(inputs)       # 16*512*512
-        maxpool0 = self.maxpool0(X_00)  # 16*256*256
-        X_10= self.conv10(maxpool0)     # 32*256*256
-        maxpool1 = self.maxpool1(X_10)  # 32*128*128
+        maxpool0 = self.maxpool(X_00)    # 16*256*256
+        X_10= self.conv10(maxpool0)      # 32*256*256
+        maxpool1 = self.maxpool(X_10)    # 32*128*128
         X_20 = self.conv20(maxpool1)     # 64*128*128
-        maxpool2 = self.maxpool2(X_20)  # 64*64*64
+        maxpool2 = self.maxpool(X_20)    # 64*64*64
         X_30 = self.conv30(maxpool2)     # 128*64*64
-        maxpool3 = self.maxpool3(X_30)  # 128*32*32
-        X_40 = self.conv40(maxpool3)   # 256*32*32
+        maxpool3 = self.maxpool(X_30)    # 128*32*32
+        X_40 = self.conv40(maxpool3)     # 256*32*32
         # column : 1
         X_01 = self.up_concat01(X_10,X_00)
         X_11 = self.up_concat11(X_20,X_10)
@@ -95,8 +91,6 @@ class UNet_Nested(nn.Module):
             return final
         else:
             return final_4
-
-
 
 if __name__ == '__main__':
     print('#### Test Case ###')
