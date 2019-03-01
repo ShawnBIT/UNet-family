@@ -35,7 +35,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * A Probabilistic U-Net for Segmentation of Ambiguous Images (NIPS) [[paper](https://arxiv.org/pdf/1806.05034.pdf)] [[tensorflow](https://github.com/SimonKohl/probabilistic_unet)]
   * AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy [[paper](https://arxiv.org/pdf/1808.05238.pdf)]
 ## 2019 
-  * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [[paper]](https://arxiv.org/pdf/1902.04049v1.pdf)
+  * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [[paper]](https://arxiv.org/pdf/1902.04049v1.pdf)][[keras](https://github.com/nibtehaz/MultiResUNet)]
   * U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument [[paper](https://arxiv.org/pdf/1902.08994.pdf)]
 
 
