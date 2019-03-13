@@ -41,6 +41,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * Probability Map Guided Bi-directional Recurrent UNet for Pancreas Segmentation [[paper](https://arxiv.org/pdf/1903.00923.pdf)]
   * CE-Net: Context Encoder Network for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/1903.02740.pdf)]
   * GRAPH U-NET [[paper](https://openreview.net/pdf?id=HJePRoAct7)]
+  * A NOVEL FOCAL TVERSKY LOSS FUNCTION WITH IMPROVED ATTENTION U-NET FOR LESION SEGMENTATION (ISBI) [[paper](https://arxiv.org/pdf/1810.07842.pdf)]
   
 
 
