@@ -42,6 +42,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * CE-Net: Context Encoder Network for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/1903.02740.pdf)]
   * Graph U-Net [[paper](https://openreview.net/pdf?id=HJePRoAct7)]
   * A Novel Focal Tversky Loss Function with Improved Attention U-Net for Lesion Segmentation (ISBI) [[paper](https://arxiv.org/pdf/1810.07842.pdf)]
+  * ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling [[paper](https://arxiv.org/pdf/1903.05631.pdf)]
   
 
 
