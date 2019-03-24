@@ -39,7 +39,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [[paper](https://arxiv.org/pdf/1902.04049v1.pdf)][[keras](https://github.com/nibtehaz/MultiResUNet)]
   * U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument [[paper](https://arxiv.org/pdf/1902.08994.pdf)]
   * Probability Map Guided Bi-directional Recurrent UNet for Pancreas Segmentation [[paper](https://arxiv.org/pdf/1903.00923.pdf)]
-  * CE-Net: Context Encoder Network for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/1903.02740.pdf)]
+  * CE-Net: Context Encoder Network for 2D Medical Image Segmentation [[paper](https://arxiv.org/pdf/1903.02740.pdf)][[pytorch](https://github.com/Guzaiwang/CE-Net)]
   * Graph U-Net [[paper](https://openreview.net/pdf?id=HJePRoAct7)]
   * A Novel Focal Tversky Loss Function with Improved Attention U-Net for Lesion Segmentation (ISBI) [[paper](https://arxiv.org/pdf/1810.07842.pdf)]
   * ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling [[paper](https://arxiv.org/pdf/1903.05631.pdf)]
