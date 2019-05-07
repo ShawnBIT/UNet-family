@@ -45,7 +45,8 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * ST-UNet: A Spatio-Temporal U-Network for Graph-structured Time Series Modeling [[paper](https://arxiv.org/pdf/1903.05631.pdf)]
   * Connection Sensitive Attention U-NET for Accurate Retinal Vessel Segmentation [[paper](https://arxiv.org/pdf/1903.05558.pdf)]
   * CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation [[paper](https://arxiv.org/pdf/1903.05358.pdf)]
-  * W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/pdf/1903.11249.pdf)]
+  * W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/pdf/1903.11249.pdf)
+  * Automated Segmentation of Pulmonary Lobes using Coordination-guided Deep Neural Networks (ISBI oral) [[paper](https://arxiv.org/pdf/1904.09106.pdf)]
   
 
 
