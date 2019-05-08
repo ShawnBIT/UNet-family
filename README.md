@@ -15,6 +15,7 @@ You can figure it out from [my answer](https://www.zhihu.com/question/269914775/
   * 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation [[paper](https://arxiv.org/pdf/1606.06650.pdf)][[pytorch](https://github.com/wolny/pytorch-3dunet)]
 ## 2017 
   * H-DenseUNet: Hybrid Densely Connected UNet for Liver and Tumor Segmentation from CT Volumes (IEEE Transactions on Medical Imaging)[[paper](https://arxiv.org/pdf/1709.07330.pdf)][[keras](https://github.com/xmengli999/H-DenseUNet)]
+  * GP-Unet: Lesion Detection from Weak Labels with a 3D Regression Network (MICCAI) [[paper](https://arxiv.org/pdf/1705.07999.pdf)]
 ## 2018 
   * UNet++: A Nested U-Net Architecture for Medical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1807.10165.pdf)][[my-pytorch](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet_Nested.py)][[keras](https://github.com/MrGiovanni/UNetPlusPlus)]
   * MDU-Net: Multi-scale Densely Connected U-Net for biomedical image segmentation [[paper](https://arxiv.org/pdf/1812.00352.pdf)]
