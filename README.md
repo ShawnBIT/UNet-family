@@ -8,7 +8,7 @@ Furthermore, why does the UNet neural network perform well in medical image segm
 You can figure it out from [my answer](https://www.zhihu.com/question/269914775/answer/586501606) in Zhihu.
 
 <p align="center">
-  <img src="https://github.com/ShawnBIT/AI-Challenger-Retinal-Edema-Segmentation/blob/master/materials/figures/0010.gif" width="1000"/>  
+  <img src="https://github.com/ShawnBIT/UNet-family/blob/master/pictures/unet.png" width="1000"/>  
 </p>
 
 
