@@ -7,6 +7,12 @@ My implementation is mainly based on **pytorch**, and other implementations are 
 Furthermore, why does the UNet neural network perform well in medical image segmentation?
 You can figure it out from [my answer](https://www.zhihu.com/question/269914775/answer/586501606) in Zhihu.
 
+<p align="center">
+  <img src="https://github.com/ShawnBIT/AI-Challenger-Retinal-Edema-Segmentation/blob/master/materials/figures/0010.gif" width="1000"/>  
+</p>
+
+
+
 # UNet-family
 ## 2015
   * U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI) [[paper](https://arxiv.org/pdf/1505.04597.pdf)]  [[my-pytorch](https://github.com/ShawnBIT/UNet-family/blob/master/networks/UNet.py)][[keras](https://github.com/zhixuhao/unet)] 
