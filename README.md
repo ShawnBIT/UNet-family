@@ -40,7 +40,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * A Probabilistic U-Net for Segmentation of Ambiguous Images (NIPS) [[paper](https://arxiv.org/pdf/1806.05034.pdf)] [[tensorflow](https://github.com/SimonKohl/probabilistic_unet)]
   * AnatomyNet: Deep Learning for Fast and Fully Automated Whole-volume Segmentation of Head and Neck Anatomy [[paper](https://arxiv.org/pdf/1808.05238.pdf)]
   * 3D RoI-aware U-Net for Accurate and Efficient Colorectal Cancer Segmentation [[paper](https://arxiv.org/pdf/1806.10342.pdf)][[pytorch](https://github.com/huangyjhust/3D-RU-Net)]
-  * Detection and Delineation of Acute Cerebral Infarct on DWI Using Weakly Supervised Machine Learning (YNet) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1.pdf)](Page 82)
+  * Detection and Delineation of Acute Cerebral Infarct on DWI Using Weakly Supervised Machine Learning (Y-Net) (MICCAI) [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00931-1.pdf)](Page 82)
 ## 2019 
   * MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation [[paper](https://arxiv.org/pdf/1902.04049v1.pdf)][[keras](https://github.com/nibtehaz/MultiResUNet)]
   * U-NetPlus: A Modified Encoder-Decoder U-Net Architecture for Semantic and Instance Segmentation of Surgical Instrument [[paper](https://arxiv.org/pdf/1902.08994.pdf)]
