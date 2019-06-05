@@ -53,6 +53,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * CIA-Net: Robust Nuclei Instance Segmentation with Contour-aware Information Aggregation [[paper](https://arxiv.org/pdf/1903.05358.pdf)]
   * W-Net: Reinforced U-Net for Density Map Estimation [[paper](https://arxiv.org/pdf/1903.11249.pdf)]
   * Automated Segmentation of Pulmonary Lobes using Coordination-guided Deep Neural Networks (ISBI oral) [[paper](https://arxiv.org/pdf/1904.09106.pdf)]
+  * U2-NET: A BAYESIAN U-NET MODEL WITH EPISTEMIC UNCERTAINTY FEEDBACK FOR PHOTORECEPTOR LAYER SEGMENTATION IN PATHOLOGICAL OCT SCANS [[paper](https://arxiv.org/pdf/1901.07929.pdf)]
   
 
 
