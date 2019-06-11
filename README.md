@@ -56,6 +56,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * Automated Segmentation of Pulmonary Lobes using Coordination-guided Deep Neural Networks (ISBI oral) [[paper](https://arxiv.org/pdf/1904.09106.pdf)]
   * U2-Net: A Bayesian U-Net Model with Epistemic Uncertainty Feedback for Photoreceptor Layer Segmentation in Pathological OCT Scans [[paper](https://arxiv.org/pdf/1901.07929.pdf)]
   * ScleraSegNet: an Improved U-Net Model with Attention for Accurate Sclera Segmentation (ICB Honorable Mention Paper Award) [[paper](https://github.com/ShawnBIT/Paper-Reading/blob/master/ScleraSegNet.pdf)]
+  * AHCNet: An Application of Attention Mechanism and Hybrid Connection for Liver Tumor Segmentation in CT Volumes [[paper](https://github.com/ShawnBIT/Paper-Reading/blob/master/AHCNet.pdf)]
   
 
 
