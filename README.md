@@ -62,6 +62,8 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * MFP-Unet: A Novel Deep Learning Based Approach for Left Ventricle Segmentation in Echocardiography [[paper](https://arxiv.org/pdf/1906.10486.pdf)]
   * A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation (MICCAI 2019) [[paper](https://arxiv.org/pdf/1906.06148.pdf)][[pytorch](https://github.com/RobinBruegger/PartiallyReversibleUnet)]
   * ResUNet-a: a deep learning framework for semantic segmentation of remotely sensed data [[paper](https://arxiv.org/pdf/1904.00592v2.pdf)]
+  * A multi-task U-net for segmentation with lazy labels [[paper](https://arxiv.org/pdf/1906.12177.pdf)]
+ 
 
 
 # Reference
