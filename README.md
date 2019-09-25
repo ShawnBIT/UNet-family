@@ -63,6 +63,10 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * A Partially Reversible U-Net for Memory-Efficient Volumetric Image Segmentation (MICCAI 2019) [[paper](https://arxiv.org/pdf/1906.06148.pdf)][[pytorch](https://github.com/RobinBruegger/PartiallyReversibleUnet)]
   * ResUNet-a: a deep learning framework for semantic segmentation of remotely sensed data [[paper](https://arxiv.org/pdf/1904.00592v2.pdf)]
   * A multi-task U-net for segmentation with lazy labels [[paper](https://arxiv.org/pdf/1906.12177.pdf)]
+  * RAUNet: Residual Attention U-Net for Semantic Segmentation of Cataract Surgical Instruments [[paper](http://xxx.itp.ac.cn/pdf/1909.10360v1)]
+  * 3D U2-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation [[paper](https://arxiv.org/pdf/1909.06012.pdf)] [[pytorch](https://github.com/huangmozhilv/u2net_torch/)]
+  * SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation [[paper](https://arxiv.org/pdf/1909.05962.pdf)]
+
  
 
 
