@@ -67,6 +67,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * 3D U2-Net: A 3D Universal U-Net for Multi-Domain Medical Image Segmentation (MICCAI 2019) [[paper](https://arxiv.org/pdf/1909.06012.pdf)] [[pytorch](https://github.com/huangmozhilv/u2net_torch/)]
   * SegNAS3D: Network Architecture Search with Derivative-Free Global Optimization for 3D Image Segmentation (MICCAI 2019) [[paper](https://arxiv.org/pdf/1909.05962.pdf)]
   * 3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI [[paper](https://arxiv.org/pdf/1904.03355.pdf)][[pytorch](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)] (MICCAI 2019)
+  * The Domain Shift Problem of Medical Image Segmentation and Vendor-Adaptation by Unet-GAN [[paper](https://arxiv.org/pdf/1910.13681.pdf)]
 
  
 
