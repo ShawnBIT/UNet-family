@@ -69,6 +69,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * 3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI [[paper](https://arxiv.org/pdf/1904.03355.pdf)][[pytorch](https://github.com/China-LiuXiaopeng/BraTS-DMFNet)] (MICCAI 2019)
   * The Domain Shift Problem of Medical Image Segmentation and Vendor-Adaptation by Unet-GAN [[paper](https://arxiv.org/pdf/1910.13681.pdf)]
   * Recurrent U-Net for Resource-Constrained Segmentation [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Recurrent_U-Net_for_Resource-Constrained_Segmentation_ICCV_2019_paper.pdf)] (ICCV 2019)
+  * Siamese U-Net with Healthy Template for Accurate Segmentation of Intracranial Hemorrhage (MICCAI 2019)
 
  
 
