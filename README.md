@@ -71,6 +71,8 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * Recurrent U-Net for Resource-Constrained Segmentation [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Recurrent_U-Net_for_Resource-Constrained_Segmentation_ICCV_2019_paper.pdf)] (ICCV 2019)
   * Siamese U-Net with Healthy Template for Accurate Segmentation of Intracranial Hemorrhage (MICCAI 2019)
 
+## 2020
+  * U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection (Pattern Recognition 2020) [[pytorch](https://github.com/NathanUA/U-2-Net)]
 
 # Reference
   * https://github.com/ozan-oktay/Attention-Gated-Networks (Our model style mainly refers to this repository.）
