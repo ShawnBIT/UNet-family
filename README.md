@@ -72,7 +72,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
   * Siamese U-Net with Healthy Template for Accurate Segmentation of Intracranial Hemorrhage (MICCAI 2019)
 
 ## 2020
-  * U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection (Pattern Recognition 2020) [[paper](https://webdocs.cs.ualberta.ca/~xuebin/BASNet.pdf)][[pytorch](https://github.com/NathanUA/U-2-Net)]
+  * U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection (Pattern Recognition 2020) [[paper](https://arxiv.org/pdf/2005.09007v1.pdf)][[pytorch](https://github.com/NathanUA/U-2-Net)]
 
 # Reference
   * https://github.com/ozan-oktay/Attention-Gated-Networks (Our model style mainly refers to this repository.）
