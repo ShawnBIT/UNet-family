@@ -73,6 +73,7 @@ outcome prediction in multimodal MRI [[paper](https://arxiv.org/pdf/1810.13304.p
 
 ## 2020
   * U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection (Pattern Recognition 2020) [[paper](https://arxiv.org/pdf/2005.09007v1.pdf)][[pytorch](https://github.com/NathanUA/U-2-Net)]
+  * UNET 3+: A Full-Scale Connected UNet for Medical Image Segmentation (ICASSP 2020) [[paper](https://arxiv.org/pdf/2004.08790.pdf)][[pytorch](https://github.com/ZJUGiveLab/UNet-Version)]
 
 # Reference
   * https://github.com/ozan-oktay/Attention-Gated-Networks (Our model style mainly refers to this repository.）
